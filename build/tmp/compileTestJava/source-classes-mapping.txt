@@ -1,0 +1,2 @@
+com/example/menu/MenuApplicationTests.java
+ com.example.menu.MenuApplicationTests
